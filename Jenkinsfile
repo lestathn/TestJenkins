@@ -1,5 +1,6 @@
 #!groovy
 
 node {
-  echo 'Hola Elder'
+  status "checkout scm"
+    
 }
